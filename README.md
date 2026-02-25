@@ -1,4 +1,3 @@
-# Bayesian_Inference_PyMC
 # Bayesian Modelling with PyMC and Bambi
 
 This repository contains selected implementations of Bayesian statistical models using PyMC and Bambi. The notebooks demonstrate hands-on experience with probabilistic modelling, hierarchical models, regression techniques, and uncertainty quantification.
