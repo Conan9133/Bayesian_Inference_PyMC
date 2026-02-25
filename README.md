@@ -1,10 +1,44 @@
 # Bayesian_Inference_PyMC
-This repository contains selected implementations of Bayesian inference models using PyMC, including MCMC sampling, posterior predictive checks, and hierarchical modeling examples. These were developed while studying probabilistic modeling and computational Bayesian methods.
+# Bayesian Modelling with PyMC and Bambi
 
-1. Linear regression with Bayesian inference
+This repository contains selected implementations of Bayesian statistical models using PyMC and Bambi. The notebooks demonstrate hands-on experience with probabilistic modelling, hierarchical models, regression techniques, and uncertainty quantification.
 
-2. Hierarchical model
+## Topics Covered
 
-3. Posterior predictive sampling
+### Regression Models (PyMC)
+- Simple Linear Regression
+- Logistic Regression
+- Robust Regression
+- Hierarchical Linear Regression
+- Variable Variance Models
 
-4. MCMC diagnostics
+### Structured Modelling (Bambi)
+- Polynomial regression and splines
+- Categorical predictors and interactions
+- Distributional models
+- Variable selection
+
+## Technical Focus
+
+- MCMC sampling
+- Posterior inference
+- Convergence diagnostics (R-hat, ESS)
+- Posterior predictive checks
+- Model comparison and interpretation
+- Hierarchical modelling and shrinkage effects
+
+## Motivation
+
+While my primary research focuses on hybrid quantum–classical optimization algorithms, Bayesian modelling provides a principled framework for uncertainty-aware inference and model evaluation.
+
+These notebooks were implemented while studying:
+Osvaldo Martin, *Bayesian Analysis with Python* (Chapters 4 and 6),
+and include my own extensions, parameter experiments, and diagnostics.
+
+## Tools Used
+
+- Python
+- PyMC
+- Bambi
+- ArviZ
+- NumPy / SciPy / Matplotlib
